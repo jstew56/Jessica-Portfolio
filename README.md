@@ -10,4 +10,4 @@ I'm a data anaylst with a background in sales - now building impactful projects 
 - PowerBI
 
 ## Let's Connect
-(LinkedIn)(https://www.linkedin.com/in/jessicastewartt/)
+[LinkedIn](https://www.linkedin.com/in/jessicastewartt/)
