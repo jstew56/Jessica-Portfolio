@@ -45,25 +45,29 @@ Comprehensive financial data analysis project using anonymized banking datasets.
 
 ---
 
-### 📈 Sales Performance Dashboard (Excel / Tableau)
+## 🚚 Supply Chain Order Analysis (SQL + Excel Pivot Dashboard)
 
-Analyzed sales performance metrics to evaluate revenue trends, rep productivity, and opportunity conversion rates.
+End-to-end relational analysis project using star schema joins and Excel Pivot reporting.
 
-**Highlights:**
+### SQL Component
+- Multi-table INNER JOIN across dimension & fact tables
+- Primary & foreign key relationships
+- Consolidated customer, order, product, and supplier data
 
-- Built pivot table-driven dashboard  
-- Identified revenue drivers and performance gaps  
-- Delivered executive-ready KPI summary views  
+### Excel Dashboard Component
+- Revenue by supplier
+- Order volume by customer segment
+- Product performance trends
+- Loyalty tier reporting
 
-🔗 [View Sales Performance Dashboard](PASTE_YOUR_LINK_HERE)
+### Skills Demonstrated
+- Star schema understanding
+- Fact vs dimension modeling
+- Pivot Tables
+- Sorting, filtering, aggregation
+- Executive-ready dashboard presentation
 
----
-
-##  What I’m Currently Building
-
-- Expanding Snowflake SQL expertise (window functions, ranking, rolling metrics)
-- Developing financial analytics dashboards in Tableau
-- Preparing for entry-level Data Analyst opportunities in financial services or business analytics
+🔗 [View Supply Chain Project](PASTE_LINK_HERE)
 
 ---
 
