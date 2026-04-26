@@ -1,4 +1,4 @@
-# Hi, I’m Jessica Stewart 👋
+# Hi, I’m Jessica Stewart 
 
 I’m an entry-level Data Analyst with a background in sales and revenue operations, now focused on transforming data into actionable business insights.
 
@@ -6,7 +6,7 @@ With experience analyzing performance metrics and financial data, I specialize i
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - SQL (Snowflake)
 - Microsoft Excel (Pivot Tables, Data Cleaning, Aggregations)
@@ -16,9 +16,9 @@ With experience analyzing performance metrics and financial data, I specialize i
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
-### 🏦 Banking Data Analytics (Snowflake SQL)
+###  Banking Data Analytics (Snowflake SQL)
 
 Comprehensive financial data analysis project using anonymized banking datasets.
 
@@ -59,7 +59,7 @@ Analyzed sales performance metrics to evaluate revenue trends, rep productivity,
 
 ---
 
-## 💼 What I’m Currently Building
+##  What I’m Currently Building
 
 - Expanding Snowflake SQL expertise (window functions, ranking, rolling metrics)
 - Developing financial analytics dashboards in Tableau
@@ -67,7 +67,7 @@ Analyzed sales performance metrics to evaluate revenue trends, rep productivity,
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 I’m open to entry-level Data Analyst opportunities and always interested in collaborating on data-driven projects.
 
