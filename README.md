@@ -43,7 +43,7 @@ Comprehensive financial data analysis project using anonymized banking datasets.
 
 ---
 
-### 🚚 Supply Chain Order Analysis (SQL | Relational Modeling)
+###  Supply Chain Order Analysis (SQL | Relational Modeling)
 
 End-to-end supply chain analysis using a **star schema structure** to evaluate customer orders, supplier performance, and product trends.
 
