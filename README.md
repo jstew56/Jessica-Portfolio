@@ -67,7 +67,7 @@ End-to-end relational analysis project using star schema joins and Excel Pivot r
 - Sorting, filtering, aggregation
 - Executive-ready dashboard presentation
 
-🔗 [View Supply Chain Project](PASTE_LINK_HERE)
+🔗 [View Supply Chain Project](https://github.com/jstew56/supply-chain-order-analysis.git)
 
 ---
 
