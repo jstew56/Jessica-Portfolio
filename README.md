@@ -43,27 +43,33 @@ Comprehensive financial data analysis project using anonymized banking datasets.
 
 ---
 
-## 🚚 Supply Chain Order Analysis (SQL + Excel Pivot Dashboard)
+### 🚚 Supply Chain Order Analysis (SQL | Relational Modeling)
 
-End-to-end relational analysis project using star schema joins and Excel Pivot reporting.
+End-to-end supply chain analysis using a **star schema structure** to evaluate customer orders, supplier performance, and product trends.
 
-### SQL Component
-- Multi-table INNER JOIN across dimension & fact tables
-- Primary & foreign key relationships
-- Consolidated customer, order, product, and supplier data
+#### Project Overview:
+This project integrates multiple datasets using SQL joins to create a unified view of:
+- Customers  
+- Orders  
+- Products  
+- Suppliers  
 
-### Excel Dashboard Component
-- Revenue by supplier
-- Order volume by customer segment
-- Product performance trends
-- Loyalty tier reporting
+#### Key Analyses:
+- Revenue performance by supplier and product  
+- Customer segment analysis and order behavior  
+- Order trends over time  
+- Product-level performance insights  
 
-### Skills Demonstrated
-- Star schema understanding
-- Fact vs dimension modeling
-- Pivot Tables
-- Sorting, filtering, aggregation
-- Executive-ready dashboard presentation
+#### SQL Skills Demonstrated:
+- Multi-table joins (fact + dimension tables)  
+- Primary and foreign key relationships  
+- Star schema data modeling  
+- Data consolidation across business domains  
+
+#### Key Insights:
+- Revenue is distributed across multiple suppliers, with top contributors driving the majority of sales  
+- Customer segments show varying purchasing behaviors, indicating opportunities for targeted strategies  
+- Product performance highlights key revenue drivers within the supply chain  
 
 🔗 [View Supply Chain Project](https://github.com/jstew56/supply-chain-order-analysis.git)
 
