@@ -71,7 +71,7 @@ This project integrates multiple datasets using SQL joins to create a unified vi
 - Customer segments show varying purchasing behaviors, indicating opportunities for targeted strategies  
 - Product performance highlights key revenue drivers within the supply chain  
 
-🔗 [View Supply Chain Project](https://github.com/jstew56/supply-chain-order-analysis.git)
+🔗 [View Supply Chain Project](https://github.com/jstew56/supply-chain-order-analysis)
 
 ---
 
