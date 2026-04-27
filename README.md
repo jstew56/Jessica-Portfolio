@@ -10,9 +10,7 @@ With experience analyzing performance metrics and financial data, I specialize i
 
 - SQL (Snowflake)
 - Microsoft Excel (Pivot Tables, Data Cleaning, Aggregations)
-- Tableau
-- Power BI
-- Git & GitHub
+- GitHub
 
 ---
 
