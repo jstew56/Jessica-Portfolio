@@ -39,7 +39,7 @@ Comprehensive financial data analysis project using anonymized banking datasets.
 - Limiting results (LIMIT)
 - Calculated fields
 
-🔗 [View Banking Data Project](https://github.com/jstew56/banking-data-analytics.git)
+🔗 [View Banking Data Project](https://github.com/jstew56/banking-data-analytics)
 
 ---
 
